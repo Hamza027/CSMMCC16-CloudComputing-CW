@@ -1,2 +1,2 @@
 # CSMCC16-CloudComputing-CW
-A Software Prototype for MapReduce-Like system
+A Software Prototype for MapReduce-Like system implemented in C#
